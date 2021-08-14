@@ -32,15 +32,17 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 
 <br>
 
-## Keywords of different group's purchasing preferences
-**Gold**<br>
-![alt text](http://url/to/img.png)
+## Keywords of different group's purchasing preferences:
+### Gold
+![Alt text](https://github.com/coletangsy/Customer-Segmentation-Analysis/raw/main/image/gold.svg)
 
-**Silver**<br>
-![alt text](http://url/to/img.png)
+### Silver
+![Alt text](https://github.com/coletangsy/Customer-Segmentation-Analysis/raw/main/image/Sliver.svg)
 
-**Bronze**<br>
-![alt text](http://url/to/img.png)
+### Bronze
+![Alt text](https://github.com/coletangsy/Customer-Segmentation-Analysis/raw/main/image/Bronze.svg)
+
+<br>
 <br>
 
 #### Reach out to me
