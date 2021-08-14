@@ -34,12 +34,13 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 
 ## Keywords of different group's purchasing preferences:
 ### Gold
+![Image of Yaktocat]()<br>
 
 ### Silver
-
+![Image of Yaktocat]()<br>
 
 ### Bronze
-
+![Image of Yaktocat]()<br>
 
 <br>
 <br>
