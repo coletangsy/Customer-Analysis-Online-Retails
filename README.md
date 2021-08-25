@@ -10,22 +10,23 @@ This repository holds a Customer Segmentation Analysis project which utilizing R
 |       | Item                             | Progress | Version | Links    |
 | :---  | :---                                 | :---     |:---     |   :---   |
 |   1   | data                        |      DONE|    1    |- [Raw Dataset](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/amazon_co-ecommerce_sample.zip) <br> - [for_dataframe.py](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/for_dataframe.py) |
-|   2   | Data prepartion    |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
-|   3   | RFM Analysis and Key Finding | ON-GOING     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
-|   4   | Cohort Analysis | ON-GOING |         | |
+|   2   | Data preparation    |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
+|   3   | RFM Analysis and Key Finding | DONE     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
+|   4   | Cohort Analysis | DONE |         | |
 |   5   | K-means Cluster | ON-GOING |         | |
+
 
 <br>
 
 ## RFM Analysis
-RFM is a method used for analyzing customer values, which is commonly used in marketing and has received particular attention in retail and prefessional services industries.
+RFM is a method used for analyzing customer values, which is commonly used in marketing and has received particular attention in retail and professional services industries.
 
 ***RFM*** stands for:
 
 **R**ecency (新客) - When is the last time the customer purchase?<br>
 - Generally, a customer who interacted or transacted with the brand more recently, the more likely that the customer will be responsive to communication with the brand.
 
-**F**requency(常客) - How often do they purchase?<br>
+**F**requency (常客) - How often do they purchase?<br>
 - Customer with frequent interacted or transacted with the brand are more engaged, and more likely to be loyal to the brand.
 
 **M**onetay Value (貴客) - How much do they spend?<br>
