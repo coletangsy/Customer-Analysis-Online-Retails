@@ -1,8 +1,12 @@
 # Customer Segmentation Analysis
-<br>
+
 
 ## Introduction
-This repository holds a Customer Segmentation Analysis project which utilizing RFM Analysis, Cohort Analysis and K-means Cluster in python, which generates insights on customers purchasing preferences.<br><br>
+This repository holds a Customer Segmentation Analysis project helped to generate specific marketing strategies targeting different groups of customers with analyzing customer values and clustering customers into groups with machine learning algorithms. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records.
+.<br><br>
+
+
+
 
 <br>
 
@@ -11,11 +15,34 @@ This repository holds a Customer Segmentation Analysis project which utilizing R
 | :---  | :---                                 | :---     |:---     |   :---   |
 |   1   | data                        |      DONE|    1    |- [Raw Dataset](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/amazon_co-ecommerce_sample.zip) <br> - [for_dataframe.py](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/for_dataframe.py) |
 |   2   | Data preparation    |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
-|   3   | RFM Analysis and Key Finding | DONE     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
-|   4   | Cohort Analysis | DONE |         | [cohort_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/cohort_analysis.ipynb)|
+|   3   | Cohort Analysis | DONE |    1     | - [cohort_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/cohort_analysis.ipynb)|
+|   4   | RFM Analysis  | DONE     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
 |   5   | K-means Cluster | ON-GOING |         | |
 
+<br>
 
+## Cohort Analysis
+The main target here is applying cohort analysis to find out the customers behavior changes over time and the behavior pattern, to generate marketing strategies.
+
+<br>
+
+![Retention_Cohorts](https://github.com/coletangsy/Customer-Segmentation-Analysis/raw/main/example/Retention_Cohorts.jpeg)<br>
+
+### Meaningful Finding 
+***Special group***
+- Group of *2009 Dec*, have a high retention rate, keep remaining around 20 - 40 % 
+- Group of *2010 Dec*, have a relatively low retention rate that keeping under 12 % afterward
+
+
+***Special period***
+- All groups have a significant increase in retention rate in *Oct, Nov 2010, and Nov 2011*, we believe it may be related to the Black Friday events.
+
+
+***Special trend***
+- A notable increase in the retention of the group after *Jan 2011* can be observed from the cohort analysis.
+
+<br>
+<br>
 <br>
 
 ## RFM Analysis
@@ -34,7 +61,7 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 
 <br>
 
-## Customer Segmentation - RFM Segment
+### Customer Segmentation - RFM Segment
 
 |       | Customer Group                         | RFM Segment        | 
 | :---  |:---                                    | :---               | 
@@ -45,7 +72,7 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 
 <br>
 
-## Customers Segmentation - RFM Score
+### Customers Segmentation - RFM Score
 
 |       | Customer Group   | No. of Customer | RFM Score | 
 | :---  |:---              | :---            |  :---     | 
@@ -53,21 +80,19 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 |   2   | Sliver           |         3,178   | 6 - 8     |
 |   3   | Gold             |         1,906   | 9 - 12    |
 
+<br>
 
-## Products Keywords in Different Group's Purchase History
-### Gold
+### Products Keywords in Different Group's Purchase History
+#### Gold
 ![Gold.png](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/example/Gold.png)<br>
 
-### Silver
+#### Silver
 ![Sliver.png](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/example/Sliver.png)<br>
 
-### Bronze
+#### Bronze
 ![Bronze.png](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/example/Bronze.png)<br>
 
 <br>
-
-## Cohort Analysis
-
 
 <br>
 
