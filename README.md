@@ -12,7 +12,7 @@ This repository holds a Customer Segmentation Analysis project which utilizing R
 |   1   | data                        |      DONE|    1    |- [Raw Dataset](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/amazon_co-ecommerce_sample.zip) <br> - [for_dataframe.py](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/for_dataframe.py) |
 |   2   | Data preparation    |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
 |   3   | RFM Analysis and Key Finding | DONE     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
-|   4   | Cohort Analysis | DONE |         | |
+|   4   | Cohort Analysis | DONE |         | [cohort_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/cohort_analysis.ipynb)|
 |   5   | K-means Cluster | ON-GOING |         | |
 
 
