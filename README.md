@@ -26,7 +26,7 @@ The main target here is applying cohort analysis to find out the customers behav
 
 <br>
 
-![Retention_Cohorts](https://github.com/coletangsy/Customer-Segmentation-Analysis/raw/main/example/Retention_Cohorts.jpeg)<br>
+![Retention_Cohorts](https://github.com/coletangsy/Customer-Analysis-Online-Retails/raw/main/example/Retention_Cohorts.jpeg)<br>
 
 ### Meaningful Finding 
 ***Special group***
