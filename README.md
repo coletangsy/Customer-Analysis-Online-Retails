@@ -1,8 +1,12 @@
 # Customer Segmentation Analysis
-<br>
+
 
 ## Introduction
-This repository holds a Customer Segmentation Analysis project which utilizing RFM Analysis, Cohort Analysis and K-means Cluster in python, which generates insights on customers purchasing preferences.<br><br>
+This repository holds a Customer Segmentation Analysis project helped to generate specific marketing strategies targeting different groups of customers with analyzing customer values and clustering customers into groups with machine learning algorithms. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records.
+.<br><br>
+
+
+
 
 <br>
 
