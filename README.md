@@ -115,4 +115,6 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 <br>
 
 #### Reach out to me
-[Linkedin - Nicole Tang](https://www.linkedin.com/in/nicoletangsy/)<br>   [Kaggle - nicoletangsy](https://www.kaggle.com/nicoletangsy)<br>    [Matters - My study journal in Chinese](https://matters.news/@coletangsy)
+- [Linkedin - Nicole Tang](https://www.linkedin.com/in/nicoletangsy/)
+- [Kaggle - nicoletangsy](https://www.kaggle.com/nicoletangsy)
+- [Matters - My study journal in Chinese](https://matters.news/@coletangsy)
