@@ -2,8 +2,9 @@
 
 
 ## Introduction
-This repository holds a Customer Segmentation Analysis project helped to generate specific marketing strategies targeting different groups of customers with analyzing customer values and clustering customers into groups with machine learning algorithms. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records.
-.<br><br>
+This project focus on customer analysis and segmentation. Which help to generate specific marketing strategies targeting different groups. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records hosted on the UCI Machine Learning Repository.
+
+<br>
 
 
 
