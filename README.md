@@ -2,8 +2,9 @@
 
 
 ## Introduction
-This repository holds a Customer Segmentation Analysis project helped to generate specific marketing strategies targeting different groups of customers with analyzing customer values and clustering customers into groups with machine learning algorithms. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records.
-.<br><br>
+This project focus on customer analysis and segmentation. Which help to generate specific marketing strategies targeting different groups. RFM Analysis, Cohort Analysis, and K-means Clusters were conducted on a UK-based online retail transaction dataset with 1,067,371 rows of records hosted on the UCI Machine Learning Repository.
+
+<br>
 
 
 
@@ -12,12 +13,14 @@ This repository holds a Customer Segmentation Analysis project helped to generat
 
 ## Content
 |       | Item                             | Progress | Version | Links    |
-| :---  | :---                                 | :---     |:---     |   :---   |
-|   1   | data                        |      DONE|    1    |- [Raw Dataset](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/amazon_co-ecommerce_sample.zip) <br> - [for_dataframe.py](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/for_dataframe.py) |
-|   2   | Data preparation & EDA   |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
-|   3   | Cohort Analysis | DONE |    1     | - [cohort_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/cohort_analysis.ipynb)|
-|   4   | RFM Analysis  | DONE     | 1       | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
-|   5   | K-means Cluster | ON-GOING |         | |
+| :---  | :---                             | :---     |:---     |   :---   |
+|   1   | data                             |      DONE|    1    |- [Raw Dataset](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/amazon_co-ecommerce_sample.zip) <br> - [for_dataframe.py](https://github.com/coletangsy/Recommendation-System-with-NLP/blob/main/for_dataframe.py) |
+|   2   | Data preparation & EDA           |     DONE |   1     |- [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)|
+|   3   | Cohort Analysis                  | DONE     |    1     | - [cohort_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/cohort_analysis.ipynb)|
+|   4   | RFM Analysis                     | DONE     | 2        | - [Data_Preparation&RFM_analysis.ipynb](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Data_Preparation%26RFM_analysis.ipynb)<br>- [Lato-Bold.ttf](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/Lato-Bold.ttf)<br>- [eda_function.py](https://github.com/coletangsy/Customer-Segmentation-Analysis/blob/main/eda_function.py)|
+|   5   | K-means Cluster                  | DONE     |  1       |  - [K-means.ipynb](https://github.com/coletangsy/Customer-Analysis-Online-Retails/blob/main/K-means.ipynb)
+
+
 
 <br>
 
@@ -98,10 +101,20 @@ RFM is a method used for analyzing customer values, which is commonly used in ma
 
 ## K-means Cluster
 
+### From the above graph, we can find out that:
+- Group 1 (Label 0) = Middle group in Monetary Value
+- Group 2 (Label 1) = Lowest Monetary Value (mostly under $5,000), also lower in Frequency 
+- Group 3 (Label 2) = Highest Monetary Value (mostly above $10,000), lower Recency (mostly lower than 100)
+
+![3D-1.png](https://github.com/coletangsy/Customer-Analysis-Online-Retails/blob/main/example/3D-1.png)
+![3D-2.png](https://github.com/coletangsy/Customer-Analysis-Online-Retails/blob/main/example/3D-2.png)
+![3D-3.png](https://github.com/coletangsy/Customer-Analysis-Online-Retails/blob/main/example/3D-3.png)
 
 <br>
 
 <br>
 
 #### Reach out to me
-[Linkedin - Nicole Tang](https://www.linkedin.com/in/nicoletangsy/)<br>   [Kaggle - nicoletangsy](https://www.kaggle.com/nicoletangsy)<br>    [Matters - My study journal in Chinese](https://matters.news/@coletangsy)
+- [Linkedin - Nicole Tang](https://www.linkedin.com/in/nicoletangsy/)
+- [Kaggle - nicoletangsy](https://www.kaggle.com/nicoletangsy)
+- [Matters - My study journal in Chinese](https://matters.news/@coletangsy)
